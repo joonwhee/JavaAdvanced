@@ -23,7 +23,6 @@
 
 ## 自学全套教程
 - 汤阳光全面教程：https://pan.baidu.com/s/1kTIOGOG2W24LovtCFWocCw 提取码：fzol 
-- 马士兵完整版+个人补充（2个项目）：https://pan.baidu.com/s/1zHrwdmeiQMD-HZVDZo7H6g 提取码：mukq 
 - 囧辉整理版自学教程：https://pan.baidu.com/s/1uNjyVNvyhBNQYxUttijXMw 提取码：679s
 
 ## 初级教程
