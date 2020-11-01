@@ -22,8 +22,9 @@
   - 链接：https://pan.baidu.com/s/1mjDJIuW 密码：8j3a
 
 ## 自学全套教程
-- 汤阳光全面教程：https://pan.baidu.com/s/1kTIOGOG2W24LovtCFWocCw 提取码：fzol 
-- 囧辉整理版自学教程：https://pan.baidu.com/s/1uNjyVNvyhBNQYxUttijXMw 提取码：679s
+- 汤阳光全面教程：链接：https://pan.baidu.com/s/1Qp36xSvS8kp8XSCk6yevuQ 提取码：gxx5 
+- 囧辉整理版自学教程：链接：https://pan.baidu.com/s/1H88AGtndFoSAo2Jz5N58RA 提取码：6yso 
+- 马士兵教程链接：https://pan.baidu.com/s/19GFFfTdkEeZ1k-sD9IsGTw 提取码：3dd8 
 
 ## 初级教程
 - Java快速入门教程视频：https://pan.baidu.com/s/14IrY1eiOb4VFem0Dp6XETA 提取码：vm8z

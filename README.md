@@ -19,12 +19,18 @@
 
 ## 文章
 ### 程序人生
+- [在阿里工作是怎样一番体验](https://mp.weixin.qq.com/s/A00Lwsw7ryNeBSoCWmkZlw)
+- [跳槽，如何选择一家公司](https://mp.weixin.qq.com/s/1nS2VE6T6DVG6bmNHyAuPw)
 - [复习2个月拿下美团offer，我都做了些啥](https://mp.weixin.qq.com/s/X0PZq_T_wmXnDFoXVB6F1Q)
 - [2年6个月11天，外包到阿里的修仙之路](https://mp.weixin.qq.com/s/8KwpwOoRk--hSgN0afhcNQ)
 - [如何养成学习的习惯](https://mp.weixin.qq.com/s/NcpipI61ka_5ZIkv6PLNOg)
 - [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
 
 ### 面试
+- [如何准备好一场大厂面试](https://mp.weixin.qq.com/s/o1AEv3eqnMas-h2tHfNrnw)
+- [MySQL 8.0 MVCC 核心源码解析](https://mp.weixin.qq.com/s/sUf43fvr3xDLzeh1KOSPaQ)
+- [BATJTMD 面试必问的 MySQL，你懂了吗？](https://mp.weixin.qq.com/s/nMJSog9k838xHVioK9NVyw)
+- [面试必问的线程池，你懂了吗？](https://mp.weixin.qq.com/s/v3eClGAgC7iDW09MoDKiEA)
 - [面试阿里，HashMap 这一篇就够了](https://mp.weixin.qq.com/s/3hi33ueXoau1S6CVtayHPw)
 - [面试题：mybatis 中的 DAO 接口和 XML 文件里的 SQL 是如何建立关系的？](https://mp.weixin.qq.com/s/hqXtwEyRNiXv7qOlg0DVyQ)
 - [4 年 Java 经验面试总结、心得体会](https://mp.weixin.qq.com/s/sy3xzpL0q9sKVhp6m7fv7A)
