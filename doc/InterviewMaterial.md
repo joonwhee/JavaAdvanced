@@ -1,4 +1,9 @@
+## 囧辉整理简历
+- [如何写一份让 HR 眼前一亮的简历（附模板）](https://mp.weixin.qq.com/s/vUsC4aCT-gZIeGbAMMpvIQ)
+- 简历链接（建议先阅读上面这篇文章）：https://pan.baidu.com/s/1O0FW3IA7TCSSVfWtyBoaeA 提取码：418d 
+
 ## 面试题整理
+- [囧辉分享的高频面试真题（带解析、持续更新）](https://github.com/joonwhee/JavaAdvanced#%E9%9D%A2%E8%AF%95)
 - [Java面试题全集（上）](https://blog.csdn.net/jackfrued/article/details/44921941)
 - [各大公司Java后端开发面试题总结](https://blog.csdn.net/sinat_35512245/article/details/59056120)
 - [面试心得与总结---BAT、网易、蘑菇街](https://www.nowcoder.com/discuss/3043?type=2&order=0&pos=5&page=2)

@@ -27,6 +27,9 @@
 - [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
 
 ### 面试
+- [https://mp.weixin.qq.com/s/7V92KCuLfAhWRTcek6t26A](https://mp.weixin.qq.com/s/7V92KCuLfAhWRTcek6t26A)
+- [如何写一份让 HR 眼前一亮的简历（附模板）](https://mp.weixin.qq.com/s/vUsC4aCT-gZIeGbAMMpvIQ)
+- [字节、美团、快手核心部门面试总结（真题解析）](https://mp.weixin.qq.com/s/B2EfACYPkVAvxsHyWomeAg)
 - [如何准备好一场大厂面试](https://mp.weixin.qq.com/s/o1AEv3eqnMas-h2tHfNrnw)
 - [MySQL 8.0 MVCC 核心源码解析](https://mp.weixin.qq.com/s/sUf43fvr3xDLzeh1KOSPaQ)
 - [BATJTMD 面试必问的 MySQL，你懂了吗？](https://mp.weixin.qq.com/s/nMJSog9k838xHVioK9NVyw)
