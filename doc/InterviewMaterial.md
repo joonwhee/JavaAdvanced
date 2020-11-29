@@ -22,14 +22,13 @@
   - 链接：https://pan.baidu.com/s/1mjDJIuW 密码：8j3a
 
 ## 自学全套教程
-- 汤阳光全面教程：链接：https://pan.baidu.com/s/1Qp36xSvS8kp8XSCk6yevuQ 提取码：gxx5 
-- 囧辉整理版自学教程：链接：https://pan.baidu.com/s/1H88AGtndFoSAo2Jz5N58RA 提取码：6yso 
-- 马士兵教程链接：https://pan.baidu.com/s/19GFFfTdkEeZ1k-sD9IsGTw 提取码：3dd8 
+- 汤阳光OA教程：链接：https://pan.baidu.com/s/1HXiH9jjG9jFPOdmUIDA-OA 提取码：uqm8 
+- 囧辉整理版自学教程：链接：https://pan.baidu.com/s/1S3t4C_ZIeGzO8f0xbYN0pg 提取码：hhk6 
+- 马士兵教程链接：链接：https://pan.baidu.com/s/1Nn-mnFSJSLA2N2a_My0gpA 提取码：1y6b 
 
 ## 初级教程
 - Java快速入门教程视频：https://pan.baidu.com/s/14IrY1eiOb4VFem0Dp6XETA 提取码：vm8z
-- 零起点打开java世界的大门视频：https://pan.baidu.com/s/1dtXGHXRhAUZedzbUDOf0fQ 
-提取码：10ny
+- 零起点打开java世界的大门视频：https://pan.baidu.com/s/1dtXGHXRhAUZedzbUDOf0fQ 提取码：10ny
 - 毕向东Java基础全套：https://pan.baidu.com/s/1qF4KKa2K5O-aNKl-ppIB4A 提取码：8zyy
 
 ## 中级教程
