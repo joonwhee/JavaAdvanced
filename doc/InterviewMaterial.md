@@ -21,7 +21,7 @@
   - 链接：https://pan.baidu.com/s/1htMFuJU 密码：9lwn
   - 链接：https://pan.baidu.com/s/1mjDJIuW 密码：8j3a
 
-## 自学全套教程
+## 0基础自学教程
 - 汤阳光OA教程：链接：https://pan.baidu.com/s/1HXiH9jjG9jFPOdmUIDA-OA 提取码：uqm8 
 - 囧辉整理版自学教程：链接：https://pan.baidu.com/s/1S3t4C_ZIeGzO8f0xbYN0pg 提取码：hhk6 
 - 马士兵教程链接：链接：https://pan.baidu.com/s/1Nn-mnFSJSLA2N2a_My0gpA 提取码：1y6b 
