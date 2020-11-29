@@ -107,7 +107,7 @@
 - [排序算法：归并排序](https://mp.weixin.qq.com/s/ThEi7d9oZl0ECgLtYqDRdA)
 
 ## 福利
-- [面试资料（持续更新）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/InterviewMaterial.md)
+- [面试资料/自学教程（持续更新）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/InterviewMaterial.md)
 
 ## <a name="公众号">公众号</a>
 <p align="center">
