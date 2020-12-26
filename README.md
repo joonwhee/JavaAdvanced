@@ -21,6 +21,7 @@
 
 ## 文章
 ### 程序人生
+- [日赚15K的副业，厉害了！](https://mp.weixin.qq.com/s/OQ4VUmATbcpaVoKQM4c9WQ)
 - [在阿里工作是怎样一番体验](https://mp.weixin.qq.com/s/A00Lwsw7ryNeBSoCWmkZlw)
 - [跳槽，如何选择一家公司](https://mp.weixin.qq.com/s/1nS2VE6T6DVG6bmNHyAuPw)
 - [复习2个月拿下美团offer，我都做了些啥](https://mp.weixin.qq.com/s/X0PZq_T_wmXnDFoXVB6F1Q)
@@ -29,6 +30,8 @@
 - [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
 
 ### 面试
+- [面试必问的 Redis：RDB、AOF、混合持久化](https://mp.weixin.qq.com/s/FcYgoU58APnxkNTAX8U9nQ)
+- [面试必问的 Redis：数据结构和基础概念](https://mp.weixin.qq.com/s/QXSuVNHHJMYJiGU1ISUC0w)
 - [面试必问的 Spring，你懂了吗？](https://mp.weixin.qq.com/s/7V92KCuLfAhWRTcek6t26A)
 - [如何写一份让 HR 眼前一亮的简历（附模板）](https://mp.weixin.qq.com/s/vUsC4aCT-gZIeGbAMMpvIQ)
 - [字节、美团、快手核心部门面试总结（真题解析）](https://mp.weixin.qq.com/s/B2EfACYPkVAvxsHyWomeAg)
