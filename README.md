@@ -40,7 +40,7 @@
 
 
 # 自学之路
-- [0 基础 Java 自学之路（2021年最新版）](https://mp.weixin.qq.com/s/FVsyRAknlJf8cd2ixHMi4g?_blank)
+- [0 基础 Java 自学之路（2021年最新版）](https://mp.weixin.qq.com/s/FVsyRAknlJf8cd2ixHMi4g){target="_blank"}
 - [如何养成学习的习惯](https://mp.weixin.qq.com/s/NcpipI61ka_5ZIkv6PLNOg)
 
 # 程序之外、精彩人生
