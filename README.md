@@ -40,7 +40,7 @@
 
 # 福利
 - [自学教程（原创）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/SelfStudy.md)
-- [原创大厂面试资料（持续更新）]((https://github.com/joonwhee/JavaAdvanced/blob/master/doc/Interview.md))
+- [原创大厂面试资料（持续更新）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/Interview.md)
 - [面试视频](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/Interview.md)
 
 # 自学之路
