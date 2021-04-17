@@ -38,6 +38,10 @@
 
  <img src="pic/wechat.jpg" width = "310" height = "400" alt="程序员囧辉" align=center />
 
+# 福利
+- [自学教程（原创）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/SelfStudy.md)
+- [原创大厂面试资料（持续更新）]((https://github.com/joonwhee/JavaAdvanced/blob/master/doc/Interview.md))
+- [面试视频](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/Interview.md)
 
 # 自学之路
 - [0 基础 Java 自学之路（2021年最新版）](https://mp.weixin.qq.com/s/FVsyRAknlJf8cd2ixHMi4g)
@@ -182,10 +186,6 @@
 - [MyBatis根据表结构自动生成PO/Mapper代码的最佳实践](https://mp.weixin.qq.com/s/--hEb3TOqchhhvMb6juOew)
 - [使用Guava实现限流器](https://mp.weixin.qq.com/s/Wd1Zu5U9r_P1TmnhsZqLlA)
 
-
-# 福利
-## [自学教程（原创）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/SelfStudy.md)
-## [面试资料（持续更新）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/InterviewMaterial.md)
 
 # <a name="公众号">公众号</a>
 <p align="center">

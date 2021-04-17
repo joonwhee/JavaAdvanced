@@ -1,6 +1,4 @@
-## 囧辉整理简历
-- [如何写一份让 HR 眼前一亮的简历（附模板）](https://mp.weixin.qq.com/s/vUsC4aCT-gZIeGbAMMpvIQ)
-- 简历链接（建议先阅读上面这篇文章）：https://pan.baidu.com/s/1O0FW3IA7TCSSVfWtyBoaeA 提取码：418d 
+
 
 ## 面试题整理
 - [囧辉分享的高频面试真题（带解析、持续更新）](https://github.com/joonwhee/JavaAdvanced#%E9%9D%A2%E8%AF%95)
